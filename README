@@ -1,1 +1,12 @@
 Author: Sipho Cetywayo
+#Demo Online Tech store
+-This repository contains a front-end web application in Javascript,HTML and CSS that simulates a Tech audio e-commerse
+-The ideal completion will have the site full functional, allowing users to brows through the site viewing all products.
+-Users will be allowed to register their account should they wish to place orders.
+-User details will capture and stored in simple queried database for data retrieval.
+
+## Directory Structure
+├── css		    <- default css files
+├── Images		<- images directly used by the web app
+│-js		    <- Javascript codes
+└─HTML FILE		    <- E-COMMERCE HTML FILE incorporated with css 
