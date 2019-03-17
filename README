@@ -9,7 +9,7 @@ Author: Sipho Cetywayo
 ## Directory Structure
 ├── css		    <- default css files
 ├── Images		<- images directly used by the web app
-│-js		    <- Javascript codes
+│-js		    <- Javascript code
 └─HTML FILE		    <- E-COMMERCE HTML FILE incorporated with css 
 =======
 Author: Sipho Cetywayo
