@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Author: Sipho Cetywayo
 #Demo Online Tech store
 -This repository contains a front-end web application in Javascript,HTML and CSS that simulates a Tech audio e-commerse
@@ -10,3 +11,6 @@ Author: Sipho Cetywayo
 ├── Images		<- images directly used by the web app
 │-js		    <- Javascript codes
 └─HTML FILE		    <- E-COMMERCE HTML FILE incorporated with css 
+=======
+Author: Sipho Cetywayo
+>>>>>>> 8d1a7ce220dca9dd2638fb61dcf692e10ec99797
